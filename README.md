@@ -1,1 +1,2 @@
 # ProgettoTesi
+In questa reporitory è possibile accedere al codice completo del progetto svolto per la mia laurea triennale in Inegneria Informatica. Il progetto è stato sviluppato in seno al corso di Laboratorio di Grafica Interattiva e Intelligenza Artificiale.
